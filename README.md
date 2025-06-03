@@ -4,7 +4,6 @@
 
 * 💡 Passionate about leveraging data and AI to solve real-world problems and drive actionable insights.
 * ✨ Constantly learning and applying new technologies to create impactful and scalable solutions.
-* 🚀 Ranked 2nd globally in the Informatica Data Science Hackathon 2024 for predicting terrorism events with 97% accuracy.
 
 ---
 ## Technical Skills:
@@ -42,17 +41,3 @@
 * 🔗 Portfolio: [portfolio](https://www.bharathsai.com) 
 
 ---
-
-## My GitHub Stats:
-
-[![Bharath Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=BharathSai&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BharathSai&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BharathSai&theme=dark)](https://git.io/streak-stats)
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Q81NCSw0JqHjYkF6Yf/giphy.gif" width="30"/>  Thanks for stopping by!
-</p>
