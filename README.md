@@ -1,4 +1,4 @@
-# Namaste 👋, I'm Bharath Sai
+# Hello 👋, I'm Bharath Sai
 
 ### ✅ Data Analyst | AI/ML Enthusiast | Computer Science Engineer
 
