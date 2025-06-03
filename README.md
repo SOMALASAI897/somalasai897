@@ -37,7 +37,5 @@
 
 ### 📧 How to reach me:
 * 📧 Email: [contact@bharathsai.com](mailto:contact@bharathsai.com)
-* 💼 LinkedIn: [bharath sai](https://www.linkedin.com/in/bharath-somala-computer-science) 
-* 🔗 Portfolio: [portfolio](https://www.bharathsai.com) 
 
 ---
