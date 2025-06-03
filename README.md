@@ -4,7 +4,7 @@
 
 * 💡 Passionate about leveraging data and AI to solve real-world problems and drive actionable insights.
 * ✨ Constantly learning and applying new technologies to create impactful and scalable solutions.
-* 🚀 Ranked 2nd globally in the Informatica Data Science Hackathon 2024 for predicting terrorism events with 97% accuracy. [cite: 3]
+* 🚀 Ranked 2nd globally in the Informatica Data Science Hackathon 2024 for predicting terrorism events with 97% accuracy.
 
 ---
 
@@ -39,9 +39,9 @@
 ---
 
 ### 📧 How to reach me:
-* 📧 Email: [contact@bharathsai.com](mailto:contact@bharathsai.com) [cite: 1]
-* 💼 LinkedIn: [Your LinkedIn Profile URL, e.g., https://www.linkedin.com/in/bharath-somala-computer-science](https://www.linkedin.com/in/bharath-somala-computer-science) [cite: 1]
-* 🔗 Portfolio: [Codolio Portfolio URL from your resume if available, or your GitHub profile itself if that's your primary portfolio] [cite: 1]
+* 📧 Email: [contact@bharathsai.com](mailto:contact@bharathsai.com)
+* 💼 LinkedIn: [Your LinkedIn Profile URL, e.g., https://www.linkedin.com/in/bharath-somala-computer-science](https://www.linkedin.com/in/bharath-somala-computer-science) 
+* 🔗 Portfolio: [] 
 
 ---
 
