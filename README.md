@@ -38,8 +38,8 @@
 
 ### 📧 How to reach me:
 * 📧 Email: [contact@bharathsai.com](mailto:contact@bharathsai.com)
-* 💼 LinkedIn: [Your LinkedIn Profile URL, e.g., https://www.linkedin.com/in/bharath-somala-computer-science](https://www.linkedin.com/in/bharath-somala-computer-science) 
-* 🔗 Portfolio: [] 
+* 💼 LinkedIn: [bharath sai](https://www.linkedin.com/in/bharath-somala-computer-science) 
+* 🔗 Portfolio: [portfolio](https://www.bharathsai.com) 
 
 ---
 
