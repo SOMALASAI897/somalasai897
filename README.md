@@ -83,7 +83,7 @@
 - **Smart India Hackathon 2024:** Ranked 21st out of 200 teams (ML Track, college level)
 - **Material Buildathon:** Selected as finalist for rapid prototyping and deployment
 - **ICE-TESS 2025:** Presented research on “AI-Driven Approach for Bird Ecology”  
-- **Semesterly.in:** Founder/Product Lead, built and scaled to 1,000+ students
+- **Semesterly.in:** CO Founder/Product Lead, built and scaled to 1,000+ students
 
 ---
 
