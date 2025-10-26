@@ -46,12 +46,8 @@
 
 ### 📊 Other Notable Projects
 
-- **Data Analytics Dashboards**
-  - Designed business dashboards in Power BI and Excel for actionable insight.
-  - Built BI solutions automating manual reporting.
-
 - **Model Deployment**
-  - Deployed ML models using Flask and Docker; REST API integration with Postman for automation.
+  - Deployed ML models using Flask, REST API integration with Postman for automation.
 
 ---
 
@@ -59,9 +55,6 @@
 
 - **Machine Learning & AI:**  
   Building, evaluating, and deploying robust models for classification, regression, and NLP tasks.
-
-- **Data Visualization:**  
-  Interactive dashboards (Power BI, Tableau, Excel) that turn data into business insight.
 
 - **End-to-End Data Pipelines:**  
   From data cleaning and preprocessing to reporting and model deployment.
